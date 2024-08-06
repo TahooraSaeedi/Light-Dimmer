@@ -1,0 +1,430 @@
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit 3 increased.
+[INFO][2023/12/22] Wave changed to 2.
+[INFO][2023/12/22] Digit 3 increased.
+[INFO][2023/12/22] Wave changed to 3.
+[INFO][2023/12/22] Digit 3 increased.
+[INFO][2023/12/22] Wave changed to 1.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit 1 increased.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 decreased.
+[INFO][2023/12/22] DimStep decreased.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[ERR][2023/12/22] Not valid value!
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[ERR][2023/12/22] Not valid value!
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit 1 decreased.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 0 increased.
+[INFO][2023/12/22] DimStep increased.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3832.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3806.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3912.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3785.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3899.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3857.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3896.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3912.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3837.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3806.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3808.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3792.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3853.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3846.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3794.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3797.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3800.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3794.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3820.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3838.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3858.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3842.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3821.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3833.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3792.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3785.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3806.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3832.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3814.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3904.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3855.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3910.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3994.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3874.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit 3 increased.
+[INFO][2023/12/22] Wave changed to 2.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 4079.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 4095.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 4095.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit changed.
+[INFO][2023/12/22] Digit 3 increased.
+[INFO][2023/12/22] Wave changed to 3.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3804.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3787.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3892.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3783.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3891.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3892.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3898.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3792.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3791.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3796.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3798.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3794.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3787.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3794.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3781.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3796.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3795.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3791.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3824.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3894.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3909.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3789.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3904.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3916.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3896.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3903.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3906.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3786.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3794.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3799.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3784.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3792.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3791.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3782.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3783.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3791.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3791.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3791.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3792.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3790.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3788.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3921.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3944.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3848.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3888.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3792.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3891.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3877.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3915.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3891.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3887.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3910.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3894.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3904.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3886.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3896.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3903.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3780.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3905.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3886.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3901.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3886.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3883.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3877.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3897.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3893.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3888.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3880.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3865.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3884.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3779.
+[INFO][2023/12/22] Digit 4 increased.
+[WARN][2023/12/22] Critical situation. Light value: 3960.
